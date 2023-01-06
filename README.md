@@ -29,7 +29,8 @@ d’écran selon nos préférénces.
 
   
  Représentation graphique :
+ ![unnamed-2](https://user-images.githubusercontent.com/116311276/210953159-f71c32ad-396a-4775-866b-02e7675fe60c.png)
+
 ![unnamed-3](https://user-images.githubusercontent.com/116311276/210953145-bdac19d7-84f8-43bd-8d9a-c5aac08c1a45.png)
-![unnamed-2](https://user-images.githubusercontent.com/116311276/210953159-f71c32ad-396a-4775-866b-02e7675fe60c.png)
 ![unnamed](https://user-images.githubusercontent.com/116311276/210953180-8f49bb2b-c734-4ffb-aeb5-81b46543fa5c.png)
 
